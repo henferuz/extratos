@@ -1,0 +1,1 @@
+"""Interface Tkinter do conversor."""

@@ -1,0 +1,19 @@
+samples/
+EXTRATOS/
+CARTÕES/
+FRANCESINHAS/
+ERP e outros padrões/
+FATURAS DE CARTÃO DE CRÉDITO/
+__pycache__/
+*.pyc
+.pytest_cache/
+build/
+dist/
+*.spec
+!conversor.spec
+.venv*/
+saida/
+*.log
+.codex/
+.claude/settings.local.json
+.pytest-tmp*/
